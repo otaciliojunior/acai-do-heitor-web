@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // --- 1. CONFIGURAÇÕES E SELETORES GLOBAIS ---
-    const API_URL = 'http://localhost:3000';
+    const API_URL = 'https://cardapio-acai-do-heitor.onrender.com';
     // let ordersByStatusChart = null; // Gráfico desativado
     let currentOrdersData = [];
 
